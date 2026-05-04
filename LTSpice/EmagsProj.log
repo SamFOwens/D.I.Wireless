@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\samow\Documents\D.I.Wireless\LTSpice\EmagsProj.asc
-Start Time: Sun Apr 26 21:14:23 2026
+Start Time: Sun May  3 17:48:40 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -11,5 +11,5 @@ WARNING: Node NC_01 is floating.
 WARNING: Less than two connections to node n012.  This node is used by r6.
 WARNING: Less than two connections to node nc_01.  This node is used by r6.
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 5.713 seconds.
+Total elapsed time: 1.474 seconds.
 
