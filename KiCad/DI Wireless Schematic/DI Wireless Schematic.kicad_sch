@@ -2926,7 +2926,7 @@
 		(uuid 2cc63472-3563-4649-90b6-c76c725363d8)
 	)
 	(rectangle
-		(start 19.05 85.09)
+		(start 17.78 85.09)
 		(end 200.66 143.51)
 		(stroke
 			(width 0.254)
@@ -5670,7 +5670,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7500362b-dbbe-4fea-a014-bbc518149ea9")
 		(property "Reference" "#PWR010"
 			(at 173.99 58.42 0)
@@ -5681,12 +5680,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VD"
-			(at 173.99 67.31 0)
+		(property "Value" "-5V"
+			(at 171.704 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -6970,7 +6970,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cbdd86cf-d75a-41d5-bd14-7465dc7ddc2a")
 		(property "Reference" "#PWR011"
 			(at 173.99 43.18 0)
@@ -6981,12 +6980,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VD"
-			(at 173.99 34.29 0)
+		(property "Value" "+5V"
+			(at 171.704 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -7489,16 +7489,16 @@
 			)
 		)
 		(pin "7"
-			(uuid "07229cf1-c6f2-45e5-919e-16e1e485e6a6")
+			(uuid "07229cf1-c6f2-45e5-919e-16e1e485e6a7")
 		)
 		(pin "6"
-			(uuid "4f79509f-dc30-4e26-864f-8c708b97ed57")
+			(uuid "4f79509f-dc30-4e26-864f-8c708b97ed58")
 		)
 		(pin "4"
-			(uuid "a7c5d240-c1c1-4ea7-887c-5d5a94fa717c")
+			(uuid "a7c5d240-c1c1-4ea7-887c-5d5a94fa717d")
 		)
 		(pin "8"
-			(uuid "0f482284-1840-474d-8058-7d2031fbc41b")
+			(uuid "0f482284-1840-474d-8058-7d2031fbc41c")
 		)
 		(pin "3"
 			(uuid "5642d613-7523-4f07-9793-3edf00154316")
@@ -7510,7 +7510,7 @@
 			(uuid "731581fe-0f7f-4b5a-9a1a-725ec6fc4463")
 		)
 		(pin "5"
-			(uuid "0fc468e5-7be0-47ba-9288-4d34743dcb96")
+			(uuid "0fc468e5-7be0-47ba-9288-4d34743dcb97")
 		)
 		(instances
 			(project ""
@@ -7529,7 +7529,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f7fdc6d4-48b5-433c-852d-13cb95e7b3fa")
 		(property "Reference" "#PWR015"
 			(at 179.07 107.95 0)
@@ -7540,12 +7539,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VD"
-			(at 179.07 99.06 0)
+		(property "Value" "+5V"
+			(at 176.784 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
